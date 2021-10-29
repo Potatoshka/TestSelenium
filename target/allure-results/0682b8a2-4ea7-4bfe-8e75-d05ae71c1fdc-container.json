@@ -1,0 +1,1 @@
+{"uuid":"0682b8a2-4ea7-4bfe-8e75-d05ae71c1fdc","name":"checkIsRedirectToAuth()","children":["764ca331-f3c5-401d-934f-d284db202814"],"befores":[],"afters":[{"name":"clearCookiesAndLocalStorage","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1633357503968,"stop":1633357503990}],"links":[],"start":1633357498980,"stop":1633357503991}

@@ -1,0 +1,3 @@
+tests\mobile_phone\positive\TopUpPositiveTest.class
+tests\car_loans\positive\CarLoansPositiveTest.class
+tests\base\BaseTest.class

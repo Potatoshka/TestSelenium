@@ -1,0 +1,1 @@
+{"uuid":"ea576238-934b-4dca-81dd-e883ad114b64","name":"selectAgreements()","children":["2c1abe64-f48c-43f8-b27b-52e2795b0f8e"],"befores":[],"afters":[{"name":"clearCookiesAndLocalStorage","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1633357498004,"stop":1633357498032}],"links":[],"start":1633357492347,"stop":1633357498143}
